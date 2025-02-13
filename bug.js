@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object that is null or undefined.  This is especially common in React Native when dealing with asynchronous data fetching or navigation. For example, you might try to render data from a state variable before the data has finished loading, resulting in the object being null or undefined.
